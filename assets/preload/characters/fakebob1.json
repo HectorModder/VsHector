@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				212,
+				363
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICFUNRIGHT"
+		},
+		{
+			"offsets": [
+				344,
+				229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICFUNLEFT"
+		},
+		{
+			"offsets": [
+				185,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICFUNUP"
+		},
+		{
+			"offsets": [
+				300,
+				244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICFUNDOWN"
+		},
+		{
+			"offsets": [
+				10,
+				379
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICFUNIDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fakebob1",
+	"position": [
+		-110,
+		-20
+	],
+	"healthicon": "a",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		201,
+		0
+	],
+	"camera_position": [
+		-560,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 2.6
+}

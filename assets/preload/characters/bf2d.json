@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "bfmodgen left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "bfmodgen right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "bfmodgen down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-7
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "bfmodgen idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "bfmodgen up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfmodgen",
+	"position": [
+		-400,
+		210
+	],
+	"healthicon": "bf16bits",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		195,
+		255
+	],
+	"camera_position": [
+		60,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

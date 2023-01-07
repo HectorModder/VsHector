@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hector2 up"
+		},
+		{
+			"offsets": [
+				-124,
+				-2
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hector2 right"
+		},
+		{
+			"offsets": [
+				51,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hector2 left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hector2 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "hector2 idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hector2",
+	"position": [
+		-380,
+		-280
+	],
+	"healthicon": "hectorfront",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		255
+	],
+	"camera_position": [
+		230,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

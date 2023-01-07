@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				74,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sr.hekitu down"
+		},
+		{
+			"offsets": [
+				-18,
+				2
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sr.hekitu right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "sr.hekitu idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sr.hekitu left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				11
+			],
+			"anim": "singUP",
+			"fps": 3,
+			"name": "sr.hekitu up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sr.hekitu",
+	"position": [
+		-530,
+		10
+	],
+	"healthicon": "icon-needlemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		182,
+		0,
+		255
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.09990000000001
+}

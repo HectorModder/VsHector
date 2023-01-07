@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": true,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "hectordoll idle"
+		},
+		{
+			"offsets": [
+				1,
+				111
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hectordoll up"
+		},
+		{
+			"offsets": [
+				145,
+				-38
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hectordoll left"
+		},
+		{
+			"offsets": [
+				0,
+				-145
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hectordoll down"
+		},
+		{
+			"offsets": [
+				-186,
+				-8
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hectordoll right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hectordoll2",
+	"position": [
+		0,
+		-240
+	],
+	"healthicon": "doll1",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		26,
+		26
+	],
+	"camera_position": [
+		60,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

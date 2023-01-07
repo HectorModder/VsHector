@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-9,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-29,
+				-39
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-64,
+				67
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-54,
+				7
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				-13,
+				2
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-35,
+				-45
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-66,
+				67
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"offsets": [
 				-44,
-				22
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -102,72 +102,39 @@
 		{
 			"offsets": [
 				-3,
-				5
+				1
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hey",
+			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "BF dies"
 		},
 		{
 			"offsets": [
-				14,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
+				-3,
+				-5
 			],
 			"loop": true,
 			"fps": 24,
-			"anim": "scared",
+			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF idle shaking"
+			"name": "BF Dead Loop"
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				-3,
+				59
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "dodge",
+			"anim": "deathConfirm",
 			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"name": "BF Dead confirm"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf_mouse",
 	"position": [
 		0,
 		350
